@@ -1,5 +1,5 @@
+-- Create the table second_table and insert multiple rows
 USE hbtn_0c_0; -- Replace "hbtn_0c_0" with the actual database name
-
 CREATE TABLE IF NOT EXISTS second_table (
     id INT,
     name VARCHAR(256),
