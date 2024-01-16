@@ -1,3 +1,4 @@
 -- List all tables in the specified database
-USE dbname; -- Replace "dbname" with the actual database name
+USE holberton_database; -- Replace with the actual name of your database
 SHOW TABLES;
+
